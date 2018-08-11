@@ -75,7 +75,7 @@
     "catharsis_music": "URL",
     "catharsis_music_duration": 15,
 
-    "silence_duration": 20,
+    "silence_duration": 20
   },
 
   "jog_dance": {
@@ -113,20 +113,20 @@
   },
 
   "regional_dance": {
-    "name": "Nataraj Dhyan",
+    "name": "Regional Dance Celebration",
 
     "introduction": true,
     "introduction_type": "video",
     "introduction_value": "URL",
 
-    "music": "URL",
-    "music_duration": 5,
+    "music1": "URL",
+    "music1_duration": 5,
 
-    "music": "URL",
-    "music_duration": 5,
+    "music2": "URL",
+    "music2_duration": 5,
 
-    "music": "URL",
-    "music_duration": 5,
+    "music3": "URL",
+    "music3_duration": 5
   },
 
   "hara": {
@@ -147,22 +147,128 @@
   },
 
   "naad_brahma": {
+    "name": "Naad Brahma Dhyan",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "breathing_music": "URL",
+    "breathing_music_duration": 20,
+    "silence_duration": 45
   },
 
   "latihan": {
+    "name": "Latihan",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "latihan_flute_music": "URL",
+    "latihan_flute_music_duration": 5,
+
+    "glossolalia_music": "URL",
+    "glossolalia_duration": 20,
+    "silence_duration": 45
   },
 
   "dynamic": {
+    "name": "Dynamic Meditation",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "catharsis_pranayam_music": "URL",
+    "catharsis_pranayam_duration": 7,
+
+    "catharsis_music": "URL",
+    "catharsis_music_duration": 15,
+
+    "hu_music": "URL",
+    "hu_music_duration": 5,
+
+    "silence_duration": 10,
+
+    "number_of_times": 3
   },
 
   "kundalini": {
+    "name": "Kundalini Meditation",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "music": "URL",
+    "music_duration": 5,
+
+    "mantra": "Chakra Mantras",
+
+    "mantra1_music": "URL",
+    "mantra1_duration": 3,
+
+    "mantra2_music": "URL",
+    "mantra2_duration": 3,
+
+    "mantra3_music": "URL",
+    "mantra3_duration": 3,
+
+    "mantra4_music": "URL",
+    "mantra4_duration": 3,
+
+    "mantra5_music": "URL",
+    "mantra5_duration": 3,
+
+    "mantra6_music": "URL",
+    "mantra6_duration": 3,
+
+    "mantra7_music": "URL",
+    "mantra7_duration": 3,
+
+    "silence_duration": 20
   },
 
   "om_samadhi": {
+    "name": "Kundalini Meditation",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "om1": "URL",
+    "om1_duration": 3,
+
+    "om2": "URL",
+    "om2_duration": 3,
+
+    "om3": "URL",
+    "om3_duration": 3,
+
+    "om4": "URL",
+    "om4_duration": 3,
+
+    "silence_duration": 20
+  },
+
+  "dance_module": {
+    "music": "URL",
+    "music_duration": 5,
   }
 }
