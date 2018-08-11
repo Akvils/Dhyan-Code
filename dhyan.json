@@ -1,35 +1,149 @@
 {
   "pran_mudra_pranayama": {
-    "name":
+    "name": "Pran Mudra Pranayama",
 
+    "introduction": true,
+    "introduction_type": "text",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "pranayam_duration": 5
+  },
+
+  "apan_mudra_pranayama": {
+    "name": "Apan Mudra Pranayama",
+
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "pranayam_duration": 5
   },
 
   "emptiness_of_body": {
+    "name": "Emptiness of the Body",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "music": "URL",
+    "music_duration": 5,
+    "silence_duration": 3,
+
+    "number_of_times": 7
   },
 
   "emptiness_of_mind": {
+    "name": "Emptiness of the Mind",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "music": "URL",
+    "music_duration": 5,
+    "silence_duration": 3,
+
+    "number_of_times": 7
   },
 
   "catharsis": {
+    "name": "Catharsis",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "catharsis_pranayam_music": "URL",
+    "catharsis_pranayam_duration": 7,
+
+    "catharsis_music": "URL",
+    "catharsis_music_duration": 15,
+
+    "silence_duration": 20,
   },
 
   "jog_dance": {
+    "name": "Jog Dance",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "music": "URL",
+    "music_duration": 5,
+    "silence_duration": 3,
+
+    "number_of_times": 3
   },
 
   "nataraj": {
+    "name": "Nataraj Dhyan",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "music": "URL",
+    "music_duration": 5,
+    "silence_duration": 3,
+
+    "number_of_times": 4
   },
 
   "regional_dance": {
+    "name": "Nataraj Dhyan",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "music": "URL",
+    "music_duration": 5,
+
+    "music": "URL",
+    "music_duration": 5,
+
+    "music": "URL",
+    "music_duration": 5,
   },
 
   "hara": {
+    "name": "Hara Dhyan",
 
+    "introduction": true,
+    "introduction_type": "video",
+    "introduction_value": "URL",
+
+    "instructions": true,
+    "instructions_value": "URL",
+
+    "music": "URL",
+    "music_duration": 5,
+    "silence_duration": 3,
+
+    "number_of_times": 3
   },
 
   "naad_brahma": {
